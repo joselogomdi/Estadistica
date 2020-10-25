@@ -1,4 +1,4 @@
-"VelocidadViento","Humedad","Temperatura","DíaFestivo","DíaSemana","DíaNoLaborable","Estación","Clima","Fecha","Año","Mes","Hora","Total"
+"VelocidadViento","Humedad","Temperatura","DÃ­aFestivo","DÃ­aSemana","DÃ­aNoLaborable","EstaciÃ³n","Clima","Fecha","AÃ±o","Mes","Hora","Total"
 0.0896,1,0.52,0,6,0,2,3,"2011-05-14",0,5,13,254
 0,0.88,0.56,0,2,1,2,3,"2011-05-17",0,5,1,19
 0.2537,0.3,0.88,0,6,0,3,1,"2012-06-30",1,6,11,453
